@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Matera Systems as a systems analyst. 
 - 🌱 I’m currently learning a Devops culture
 - 👯 I’m looking to collaborate on Devops/SRE Area. 
-- 📫 How to reach me: through my email joaovictorribeirobr@icloud.com
+- 📫 How to reach me, through my email joaovictorribeirobr@icloud.com
 <div align="center">
   <a href="https://github.com/joaovictorribeirobrr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorribeirobrr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
