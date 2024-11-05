@@ -1,8 +1,10 @@
  Olá! Eu sou o João Ribeiro!😁
 
-- 🔭 I’m currently working on Matera Systems as a systems analyst. 
-- 🌱 I’m currently learning a Devops culture
-- 👯 I’m looking to collaborate on Devops/SRE Area. 
+- 🔭 I’m currently working at Matera Systems as a business analyst with a focus on Product Owner.
+- 🌱 I’m currently studying to become a Product Owner.
+- 👯 I’m looking to collaborate on projects that enhance product development.
+
+Se precisar de mais alguma modificação, é só avisar!
 - 📫 How to reach me, through my email joaovictorribeirobr@icloud.com
 <div align="center">
   <a href="https://github.com/joaovictorribeirobrr">
