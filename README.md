@@ -4,7 +4,6 @@
 - 🌱 I’m currently studying to become a Product Owner.
 - 👯 I’m looking to collaborate on projects that enhance product development.
 
-Se precisar de mais alguma modificação, é só avisar!
 - 📫 How to reach me, through my email joaovictorribeirobr@icloud.com
 <div align="center">
   <a href="https://github.com/joaovictorribeirobrr">
