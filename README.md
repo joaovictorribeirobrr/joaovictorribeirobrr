@@ -1,4 +1,4 @@
- Olá! Eu sou o João Ribeiro!😁
+Hi i'm João Ribeiro!😁
 
 - 🔭 I’m currently working at Matera Systems as a business analyst.
 
