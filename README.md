@@ -1,8 +1,6 @@
  Olá! Eu sou o João Ribeiro!😁
 
-- 🔭 I’m currently working at Matera Systems as a business analyst with a focus on Product Owner.
-- 🌱 I’m currently studying to become a Product Owner.
-- 👯 I’m looking to collaborate on projects that enhance product development.
+- 🔭 I’m currently working at Matera Systems as a business analyst.
 
 - 📫 How to reach me, through my email joaovictorribeirobr@icloud.com
 <div align="center">
